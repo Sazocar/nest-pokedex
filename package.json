@@ -28,6 +28,7 @@
     "@nestjs/platform-express": "^10.0.0",
     "@nestjs/serve-static": "^4.0.2",
     "axios": "^1.7.4",
+    "class-validator": "^0.14.1",
     "joi": "^17.13.3",
     "mongoose": "^8.5.2",
     "reflect-metadata": "^0.2.0",
